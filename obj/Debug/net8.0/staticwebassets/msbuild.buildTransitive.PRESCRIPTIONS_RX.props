@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PRESCRIPTIONS_RX.props" />
+</Project>

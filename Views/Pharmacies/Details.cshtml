@@ -1,0 +1,45 @@
+@model PRESCRIPTIONS_RX.Models.Pharmacy
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+
+<div>
+    <h4>Pharmacy</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SN)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SN)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PharmaceuticalName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PharmaceuticalName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.PharmacyName">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+</body>
+</html>

@@ -1,0 +1,47 @@
+@model PRESCRIPTIONS_RX.Models.SoldDrug
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+
+<h4>SoldDrug</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PharmacyName" class="control-label"></label>
+                <select asp-for="PharmacyName" class ="form-control" asp-items="ViewBag.PharmacyName"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="DrugTradeName" class="control-label"></label>
+                <select asp-for="DrugTradeName" class ="form-control" asp-items="ViewBag.DrugTradeName"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="DrugPrice" class="control-label"></label>
+                <input asp-for="DrugPrice" class="form-control" />
+                <span asp-validation-for="DrugPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</body>
+</html>
