@@ -8016,24 +8016,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GERSHOM\\.nuget\\packages\\": {}
+    "C:\\Users\\Mr. Moono\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GERSHOM\\Desktop\\Project101\\final\\PRESCRIPTIONS_RX\\PRESCRIPTIONS_RX.csproj",
+      "projectUniqueName": "C:\\Users\\Mr. Moono\\Desktop\\PRESCRIPTION_RX\\PRESCRIPTIONS_RX.csproj",
       "projectName": "PRESCRIPTIONS_RX",
-      "projectPath": "C:\\Users\\GERSHOM\\Desktop\\Project101\\final\\PRESCRIPTIONS_RX\\PRESCRIPTIONS_RX.csproj",
-      "packagesPath": "C:\\Users\\GERSHOM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GERSHOM\\Desktop\\Project101\\final\\PRESCRIPTIONS_RX\\obj\\",
+      "projectPath": "C:\\Users\\Mr. Moono\\Desktop\\PRESCRIPTION_RX\\PRESCRIPTIONS_RX.csproj",
+      "packagesPath": "C:\\Users\\Mr. Moono\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mr. Moono\\Desktop\\PRESCRIPTION_RX\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\GERSHOM\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Mr. Moono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8109,7 +8117,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

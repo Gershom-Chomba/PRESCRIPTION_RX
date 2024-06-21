@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+}
+:root {
+        --white-color:                  #ffffff;
+        --dark-color:                   #000000;
+        --p-color:                      #2e8f36;
+        --border-color:                 #18a32f;          
+        --background-color:             #2d5570;           
+        --primary-color:                #60d67c;      
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/images/background_two.jpg);
+    background-position: center;
+    background-size: cover;
+    z-index: 0;
+    position: fixed;
+}
+.logo{
+    position: fixed;
+    left: 20px;
+    z-index: 10;
+    display: flex;
+    flex-direction: row;
+}
+.imgLogo{
+    width: 30px;
+    height: 40px;
+    top: 20px;
+    position: fixed;
+}
+.logo span{
+    left: 60px;
+    top: 20px;
+    position: fixed;
+}
+.backgroundColor{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    background-color: var(--background-color);
+    z-index: 1;
+    background-size: auto;
+    background-position: center; 
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    opacity: 0.68;
+}
+.logInForm{
+    flex-direction: column;
+    border-radius: 30px;
+    border: 2px solid var(--white-color); 
+    padding: 20px;
+    width: 500px;
+    z-index: 2;
+}
+div form{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    z-index: 2;
+}
+form h1{
+    margin-bottom: 40px;
+    font-size: 50px;
+}
+.welcome{
+    margin-bottom: 30px;
+}
+form input{
+    margin: 10px;
+    width: 400px;
+    height: 40px;
+    padding-left: 20px;
+    border-radius: 20px;
+    border: 1px solid #fff; 
+    background-color: transparent;
+}
+.forgotPassword{
+    position: relative;
+    left: 134px;
+    margin-top: -10px;
+}
+.loginButton{
+    margin: 10px;
+    width: 300px;
+    height: 40px;
+    padding-left: 20px;
+    border: 1px solid var(--dark-color); 
+    background-color: var(--dark-color);
+    color: var(--white-color);
+    z-index: 90;
+}
