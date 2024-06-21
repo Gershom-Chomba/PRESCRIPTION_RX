@@ -28,6 +28,14 @@ html {
 body {
   margin-bottom: 60px;
 }
+/* .logo{
+  background-image: url(~\images\logo.png);
+  position: absolute;
+  top: 2px;
+  left: 20px;
+  width: 40px;
+  height: 60px;
+} */
 .navbar{
  
   position: fixed;

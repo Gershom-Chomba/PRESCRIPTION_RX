@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRESCRIPTIONS_RX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c5b90dc55d19ebb715d0ecc02f7d1e84bd4dd83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83797501ccaafcc6af374c848e88d2f3377c4311")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRESCRIPTIONS_RX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRESCRIPTIONS_RX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
