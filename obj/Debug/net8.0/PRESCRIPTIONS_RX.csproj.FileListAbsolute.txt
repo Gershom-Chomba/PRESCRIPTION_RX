@@ -256,3 +256,4 @@ C:\Users\GERSHOM\Desktop\Project101\final\PRESCRIPTIONS_RX\obj\Debug\net8.0\ref\
 C:\Users\GERSHOM\Desktop\Project101\final\PRESCRIPTIONS_RX\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\GERSHOM\Desktop\Project101\final\PRESCRIPTIONS_RX\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
 C:\Users\GERSHOM\Desktop\Project101\final\PRESCRIPTIONS_RX\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\GERSHOM\Desktop\Project101\final\PRESCRIPTIONS_RX\obj\Debug\net8.0\PRESCRIPTIONS_RX.sourcelink.json
