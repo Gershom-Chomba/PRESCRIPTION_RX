@@ -1,0 +1,315 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PRESCRIPTIONS_RX
+build_property.RootNamespace = PRESCRIPTIONS_RX
+build_property.ProjectDir = C:\Users\GERSHOM\Desktop\Project101\final\PRESCRIPTIONS_RX\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\GERSHOM\Desktop\Project101\final\PRESCRIPTIONS_RX
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/ContractSupervisors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RTdXBlcnZpc29yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/ContractSupervisors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RTdXBlcnZpc29yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/ContractSupervisors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RTdXBlcnZpc29yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/ContractSupervisors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RTdXBlcnZpc29yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/ContractSupervisors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RTdXBlcnZpc29yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Contracts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Contracts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Contracts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Contracts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Contracts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/DoctorsAddresses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc0FkZHJlc3Nlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/DoctorsAddresses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc0FkZHJlc3Nlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/DoctorsAddresses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc0FkZHJlc3Nlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/DoctorsAddresses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc0FkZHJlc3Nlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/DoctorsAddresses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc0FkZHJlc3Nlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Doctors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Doctors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Doctors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Doctors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Doctors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Drugs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Drugs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Drugs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Drugs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Drugs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJ1Z3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PatientAddresses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEFkZHJlc3Nlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PatientAddresses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEFkZHJlc3Nlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PatientAddresses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEFkZHJlc3Nlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PatientAddresses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEFkZHJlc3Nlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PatientAddresses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEFkZHJlc3Nlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Patients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Patients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Patients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Patients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Patients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmaceuticalCompanies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2V1dGljYWxDb21wYW5pZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmaceuticalCompanies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2V1dGljYWxDb21wYW5pZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmaceuticalCompanies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2V1dGljYWxDb21wYW5pZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmaceuticalCompanies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2V1dGljYWxDb21wYW5pZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmaceuticalCompanies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2V1dGljYWxDb21wYW5pZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmaciesAddresses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc0FkZHJlc3Nlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmaciesAddresses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc0FkZHJlc3Nlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmaciesAddresses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc0FkZHJlc3Nlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmaciesAddresses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc0FkZHJlc3Nlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmaciesAddresses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc0FkZHJlc3Nlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Pharmacies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Pharmacies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Pharmacies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Pharmacies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Pharmacies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY2llc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmacyStaffs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lTdGFmZnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmacyStaffs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lTdGFmZnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmacyStaffs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lTdGFmZnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmacyStaffs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lTdGFmZnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/PharmacyStaffs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhcm1hY3lTdGFmZnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Prescriptions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Prescriptions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Prescriptions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Prescriptions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Prescriptions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/SoldDrugs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29sZERydWdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/SoldDrugs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29sZERydWdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/SoldDrugs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29sZERydWdzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/SoldDrugs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29sZERydWdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/SoldDrugs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29sZERydWdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GERSHOM/Desktop/Project101/final/PRESCRIPTIONS_RX/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xsrq02tbh1
